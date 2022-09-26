@@ -2,4 +2,4 @@
 
 Testowy tekst do ćwiczenia komitów !
 
-First branch
+Second branch
